@@ -1,7 +1,7 @@
 <script setup>
   import { reactive } from 'vue';
   import Cabecalho from './components/cabecalho.vue';
-  import Formulario from './components/formulario.vue';
+  import Formulario from './components/formulario.vue'
   import Lista from './components/lista.vue';
   
 
